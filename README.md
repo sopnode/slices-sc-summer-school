@@ -1,6 +1,6 @@
 # Hands-on: SD-Fabric, k8s-infrastructure @ Sophia Node
 
-The objective of today is to deploy the following a fully functionnal SD-Fabric
+The objective of today is to deploy the following fully functionnal SD-Fabric
 environement in the SophiaNode.
 
 ![Software stack](figures/software_stack.png)
